@@ -78,7 +78,7 @@ RandomForestClassifier()       # Output: This is a Real email
 
 ## 🔗 **GitHub Repository**
 
-👉 [Add your repository link here]
+👉 https://github.com/ODEDELE2020/Email-Spam-Detection-Using-Machine-Learning.git
 
 ---
 
